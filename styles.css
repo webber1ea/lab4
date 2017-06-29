@@ -1,0 +1,40 @@
+.jumbotron {
+  background-color: lavender;
+}
+
+.jumbotron h1 {
+  color: purple;
+}
+
+.glyphicon {
+  color: purple;
+  display: inline-block;
+}
+
+.container {
+  background-color:beige;
+  border: 2px dashed black;
+}
+
+img {
+  border: 2px solid purple;
+}
+
+/*unvisited link*/
+a:link {
+  color:red;
+}
+/*visited link*/
+a:visited {
+  color:black;
+}
+
+/*mouse over link*/
+a:hover {
+  color:purple;
+}
+
+/*selected link*/
+a:active {
+  color:blue;
+}
